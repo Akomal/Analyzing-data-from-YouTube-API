@@ -9,7 +9,10 @@ Is there any relationship between views and comments?
 We measure our results based on views, comments, likes and dislikes.
 
 •	Views: What gets people to hear an idea?
+
 •	Likes/Dislikes: What makes people like/dislike the video?
+
 •	Comments: What kinds of topics produce discussions?
+
 Data source: The data for this project is scrapped through khan academy’s youtube channel for teachers.
 
