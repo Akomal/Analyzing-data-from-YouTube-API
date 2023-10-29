@@ -1,4 +1,4 @@
-# ETL for data analysis
+# Educational YouTube Content Analysis
 
 Khan academy is a most used online education platform. In this project, I am trying to find out answers to few questions. This analysis can help people who are trying to build education related content on youtube. 
 
