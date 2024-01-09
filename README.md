@@ -1,7 +1,7 @@
 # YouTube API to Postgres Pipeline
 Khan academy is a most used online education platform. In this project, I am trying to find out answers to few questions. This analysis can help people who are trying to build education related content on youtube. 
-
-What we are trying to analyze is:</br>
+**Tech Stack:** Python, Data scraping, Postgres, Data Analysis and transformations.
+**What we are trying to analyze is:**</br>
 1.What sort of education content is most popular on khan academy?</br>
 2.Which type of content was more popular during covid?</br>
 3.Is there any relationship between views and comments?
